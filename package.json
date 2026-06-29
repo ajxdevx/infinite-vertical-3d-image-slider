@@ -1,0 +1,24 @@
+{
+  "name": "infinite-vertical-3d-image-slider",
+  "version": "1.0.0",
+  "description": "Infinite Vertical 3D Image Slider — a smooth, distortion-driven Three.js gallery",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "threejs",
+    "slider",
+    "3d",
+    "webgl",
+    "gallery"
+  ],
+  "author": "anassjid",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.185.0",
+    "vite": "^8.1.0"
+  }
+}
